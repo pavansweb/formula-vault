@@ -1,0 +1,305 @@
+[
+    {
+      "id": 1,
+      "subject": "Physics",
+      "title": "Work Done",
+      "formula": "W = Fd cos θ",
+      "description": "Work done by a force"
+    },
+    {
+      "id": 2,
+      "subject": "Physics",
+      "title": "Kinetic Energy",
+      "formula": "KE = 1/2 mv²",
+      "description": "Energy of motion"
+    },
+    {
+      "id": 3,
+      "subject": "Physics",
+      "title": "Potential Energy",
+      "formula": "PE = mgh",
+      "description": "Energy of position"
+    },
+    {
+      "id": 4,
+      "subject": "Physics",
+      "title": "Power",
+      "formula": "P = W/t",
+      "description": "Rate of doing work"
+    },
+    {
+      "id": 5,
+      "subject": "Physics",
+      "title": "Ohm's Law",
+      "formula": "V = IR",
+      "description": "Relationship between voltage, current, and resistance"
+    },
+    {
+      "id": 6,
+      "subject": "Physics",
+      "title": "Electric Power",
+      "formula": "P = VI",
+      "description": "Electric power"
+    },
+    {
+      "id": 7,
+      "subject": "Physics",
+      "title": "Electric Energy",
+      "formula": "E = Pt",
+      "description": "Electric energy"
+    },
+    {
+      "id": 8,
+      "subject": "Physics",
+      "title": "Velocity",
+      "formula": "v = u + at",
+      "description": "Final velocity"
+    },
+    {
+      "id": 9,
+      "subject": "Physics",
+      "title": "Displacement",
+      "formula": "s = ut + 1/2 at²",
+      "description": "Displacement"
+    },
+    {
+      "id": 10,
+      "subject": "Physics",
+      "title": "Velocity Squared",
+      "formula": "v² = u² + 2as",
+      "description": "Final velocity squared"
+    },
+    {
+      "id": 11,
+      "subject": "Math",
+      "title": "(a+b)²",
+      "formula": "a² + 2ab + b²",
+      "description": "Square of a sum"
+    },
+    {
+      "id": 12,
+      "subject": "Math",
+      "title": "(a-b)²",
+      "formula": "a² - 2ab + b²",
+      "description": "Square of a difference"
+    },
+    {
+      "id": 13,
+      "subject": "Math",
+      "title": "(a+b)(a-b)",
+      "formula": "a² - b²",
+      "description": "Difference of squares"
+    },
+      {
+      "id": 14,
+      "subject": "Math",
+      "title": "(x+a)(x+b)",
+      "formula": "x² + (a+b)x + ab",
+      "description": "Product of two binomials"
+    },
+    {
+      "id": 15,
+      "subject": "Math",
+      "title": "(x+a)(x-b)",
+      "formula": "x² + (a-b)x - ab",
+      "description": "Product of two binomials"
+    },
+    {
+      "id": 16,
+      "subject": "Math",
+      "title": "Quadratic Formula",
+      "formula": "x = (-b ± √(b²-4ac)) / 2a",
+      "description": "Roots of a quadratic equation"
+    },
+    {
+      "id": 17,
+      "subject": "Math",
+      "title": "nth term of AP",
+      "formula": "an = a + (n-1)d",
+      "description": "nth term of an arithmetic progression"
+    },
+  {
+      "id": 18,
+      "subject": "Math",
+      "title": "Sum of n terms of AP",
+      "formula": "Sn = n/2 [2a + (n-1)d]",
+      "description": "Sum of n terms of an arithmetic progression"
+    },
+    {
+      "id": 19,
+      "subject": "Math",
+      "title": "nth term of GP",
+      "formula": "an = ar^(n-1)",
+      "description": "nth term of a geometric progression"
+    },
+    {
+      "id": 20,
+      "subject": "Math",
+      "title": "Sum of n terms of GP",
+      "formula": "Sn = a(1-r^n) / (1-r)",
+      "description": "Sum of n terms of a geometric progression"
+    },
+   {
+      "id": 21,
+      "subject": "Math",
+      "title": "Distance between two points",
+      "formula": "d = √[(x₂-x₁)² + (y₂-y₁)²]",
+      "description": "Distance formula"
+    },
+    {
+      "id": 22,
+      "subject": "Math",
+      "title": "Section Formula (Internal Division)",
+      "formula": "x = (mx₂ + nx₁) / (m+n), y = (my₂ + ny₁) / (m+n)",
+      "description": "Coordinates of a point dividing a line segment"
+    },
+    {
+      "id": 23,
+      "subject": "Math",
+      "title": "Mid-point Formula",
+      "formula": "x = (x₁ + x₂) / 2, y = (y₁ + y₂) / 2",
+      "description": "Coordinates of the midpoint of a line segment"
+    },
+    {
+      "id": 24,
+      "subject": "Math",
+      "title": "Trigonometric Ratios",
+      "formula": "sin θ = P/H, cos θ = B/H, tan θ = P/B, cosec θ = 1/sin θ, sec θ = 1/cos θ, cot θ = 1/tan θ",
+      "description": "Basic trigonometric ratios"
+    },
+     {
+      "id": 25,
+      "subject": "Math",
+      "title": "Trigonometric Identities",
+      "formula": "sin²θ + cos²θ = 1, 1 + tan²θ = sec²θ, 1 + cot²θ = cosec²θ",
+      "description": "Fundamental trigonometric identities"
+    },
+     {
+      "id": 26,
+      "subject": "Math",
+      "title": "Trigonometric Ratios of Complementary Angles",
+      "formula": "sin(90°-θ) = cos θ, cos(90°-θ) = sin θ, tan(90°-θ) = cot θ, cosec(90°-θ) = sec θ, sec(90°-θ) = cosec θ, cot(90°-θ) = tan θ",
+      "description": "Ratios of complementary angles"
+    },
+    {
+      "id": 27,
+      "subject": "Math",
+      "title": "Area of Triangle",
+      "formula": "1/2 * base * height",
+      "description": ""
+    },
+    {
+      "id": 28,
+      "subject": "Math",
+      "title": "Area of Parallelogram",
+      "formula": "base * height",
+      "description": ""
+    },
+  {
+      "id": 29,
+      "subject": "Math",
+      "title": "Area of Trapezium",
+      "formula": "1/2 * (sum of parallel sides) * height",
+      "description": ""
+    },
+  {
+      "id": 30,
+      "subject": "Math",
+      "title": "Area of Circle",
+      "formula": "πr²",
+      "description": ""
+    },
+  {
+      "id": 31,
+      "subject": "Math",
+      "title": "Circumference of Circle",
+      "formula": "2πr",
+      "description": ""
+    },
+  {
+      "id": 32,
+      "subject": "Math",
+      "title": "Volume of Cuboid",
+      "formula": "length * breadth * height",
+      "description": ""
+    },
+    {
+      "id": 33,
+      "subject": "Math",
+      "title": "Surface Area of Cuboid",
+      "formula": "2(lb + bh + hl)",
+      "description": ""
+    },
+  {
+      "id": 34,
+      "subject": "Math",
+      "title": "Volume of Cube",
+      "formula": "a³",
+      "description": ""
+    },
+  {
+      "id": 35,
+      "subject": "Math",
+      "title": "Surface Area of Cube",
+      "formula": "6a²",
+      "description": ""
+    },
+  {
+      "id": 36,
+      "subject": "Math",
+      "title": "Volume of Cylinder",
+      "formula": "πr²h",
+      "description": ""
+    },
+  {
+      "id": 37,
+      "subject": "Math",
+      "title": "Curved Surface Area of Cylinder",
+      "formula": "2πrh",
+      "description": ""
+    },
+  {
+      "id": 38,
+      "subject": "Math",
+      "title": "Total Surface Area of Cylinder",
+      "formula": "2πr(r+h)",
+      "description": ""
+    },
+  {
+      "id": 39,
+      "subject": "Math",
+      "title": "Volume of Cone",
+      "formula": "1/3 * πr²h",
+      "description": ""
+    },
+  {
+      "id": 40,
+      "subject": "Math",
+      "title": "Curved Surface Area of Cone",
+      "formula": "πrl",
+      "description": ""
+    },
+  {
+      "id": 41,
+      "subject": "Math",
+      "title": "Total Surface Area of Cone",
+      "formula": "πr(r+l)",
+      "description": ""
+    },
+  {
+      "id": 42,
+      "subject": "Math",
+      "title": "Volume of Sphere",
+      "formula": "4/3 * πr³",
+      "description": ""
+    },
+  {
+      "id": 43,
+      "subject": "Math",
+      "title": "Surface Area of Sphere",
+      "formula": "4πr²",
+      "description": ""
+    }
+  
+  
+  ]
